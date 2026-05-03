@@ -133,9 +133,9 @@ Three bugs were identified and fixed from the original implementation:
 ## 📁 Project Structure
 
 ```
-ipl_team_selector/
+IPL-Auction-Team-Selector/
 │
-├── ipl_team_selector.py   # Main script
+├── src.py   # Main script
 └── README.md              # This file
 ```
 
